@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vaneaaka!
+`# Hi there 👋, I'm Vaneaaka!
 
 ## About Me
 - 🌱 I’m currently learning ...
@@ -7,6 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- I'm Front end developer
 
 ## My Skills
 - Programming Languages: ...
@@ -28,3 +29,4 @@
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaneaaka&layout=compact&theme=radical)
+`
